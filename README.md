@@ -9,7 +9,7 @@ Contains Karabiner rules
 1. [Remap ESC to Option-ESC in Safari only](https://ke-complex-modifications.pqrs.org/#safari)
 
 # Instructions
-`cd ~/.config/karabiner`
-`git init`
-`git add remote origin {repo url}`
-`git pull origin main`
+`cd ~/.config/karabiner`  
+`git init`  
+`git add remote origin {repo url}`  
+`git pull origin main`  
